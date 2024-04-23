@@ -1,1 +1,12 @@
-# LearnC-
+- variables
+  - examples
+  - explanations.md
+  - exercises.md
+- loops
+  - examples
+  - explanations.md
+  - exercises.md
+- functions
+  - examples
+  - explanations.md
+  - exercises.md
